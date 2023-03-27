@@ -1,0 +1,5 @@
+myenv/
+extra_files/
+.env
+benddao.db
+__pycache__/
